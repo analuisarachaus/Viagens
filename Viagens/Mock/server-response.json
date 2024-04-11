@@ -1,0 +1,84 @@
+{
+    "viagens": {
+        "destaques": [{
+                "id": 1,
+                "titulo": "Pacote Natal Gramado",
+                "subtitulo": "Aéreo + Hotel com café",
+                "asset": "Gramado",
+                "diaria": 7,
+                "hospedes": 1,
+                "precoSemDesconto": 1.284,
+                "preco": 899,
+                "cancelamento": "Cancelamento Grátis!"
+            },
+            {
+                "id": 2,
+                "titulo": "Aéreo + Hotel",
+                "subtitulo": "Pacote Bonito Paris",
+                "asset": "Paris",
+                "diaria": 5,
+                "hospedes": 2,
+                "precoSemDesconto": 6.048,
+                "preco": 4.734,
+                "cancelamento": "Cancelamento Grátis!"
+            },
+            {
+                "id": 3,
+                "titulo": "Aéreo + Hotel com café",
+                "subtitulo": "Salvador",
+                "asset": "Salvador",
+                "diaria": 5,
+                "hospedes": 1,
+                "precoSemDesconto": 1.078,
+                "preco": 809,
+                "cancelamento": "Cancelamento Grátis!"
+            }
+        ],
+        "ofertas": [{
+                "id": 4,
+                "titulo": "Amsterdam",
+                "subtitulo": "Aéreo + Hotel + Ingresso",
+                "asset": "Amsterdam",
+                "diaria": 5,
+                "hospedes": 1,
+                "precoSemDesconto": 2.898,
+                "preco": 1.449,
+                "cancelamento": "Cancelamento Grátis!"
+            },
+            {
+                "id": 5,
+                "titulo": "Londres",
+                "subtitulo": "Aéreo + Hotel c/ café da manhã",
+                "asset": "Londres",
+                "diaria": 5,
+                "hospedes": 1,
+                "precoSemDesconto": 3.578,
+                "preco": 2.009,
+                "cancelamento": "Cancelamento Grátis!"
+            }
+        ],
+        "internacionais": [{
+                "id": 6,
+                "titulo": "Miami All inclusive",
+                "subtitulo": "Aéreo + Hotel All Inclusive",
+                "asset": "Miami",
+                "diaria": 5,
+                "hospedes": 1,
+                "precoSemDesconto": 5.816,
+                "preco": 3.199,
+                "cancelamento": "Cancelamento Grátis!"
+            },
+            {
+                "id": 7,
+                "titulo": "Pacote Oslo",
+                "subtitulo": "Aéreo + Hospedagem",
+                "asset": "Oslo",
+                "diaria": 3,
+                "hospedes": 1,
+                "precoSemDesconto": 9.895,
+                "preco": 7.327,
+                "cancelamento": "Cancelamento Grátis!"
+            }
+        ]
+    }
+}
